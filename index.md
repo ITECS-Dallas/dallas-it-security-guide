@@ -94,11 +94,11 @@ Easily adapt your IT infrastructure as your business grows and evolves.
 
 While this guide provides valuable insights, partnering with experienced IT professionals ensures optimal results. Here are specialized services that complement this guide:
 
-- **[Main cybersecurity services overview](https://itecsonline.com/**/cybersecurity-services**)** - Comprehensive protection against modern cyber threats
-- **[EDR solutions with Sophos XDR and MDR](https://itecsonline.com/**/cybersecurity/endpoint-detection-response**)** - Comprehensive protection against modern cyber threats
-- **[Security awareness training and phishing simulations](https://itecsonline.com/**/cybersecurity/cybersecurity-training**)** - Comprehensive protection against modern cyber threats
-- **[Next-generation firewall management](https://itecsonline.com/**/cybersecurity/managed-firewall-services**)** - Comprehensive protection against modern cyber threats
-- **[Security assessments and vCISO services](https://itecsonline.com/**/cybersecurity/cybersecurity-consulting**)** - Comprehensive protection against modern cyber threats
+- **[Main cybersecurity services overview](https://itecsonline.com/cybersecurity-services)** - Comprehensive protection against modern cyber threats
+- **[EDR solutions with Sophos XDR and MDR](https://itecsonline.com/cybersecurity/endpoint-detection-response)** - Comprehensive protection against modern cyber threats
+- **[Security awareness training and phishing simulations](https://itecsonline.com/cybersecurity/cybersecurity-training)** - Comprehensive protection against modern cyber threats
+- **[Next-generation firewall management](https://itecsonline.com/cybersecurity/managed-firewall-services)** - Comprehensive protection against modern cyber threats
+- **[Security assessments and vCISO services](https://itecsonline.com/cybersecurity/cybersecurity-consulting)** - Comprehensive protection against modern cyber threats
 
 
 ## Additional Resources
